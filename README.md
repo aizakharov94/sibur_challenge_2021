@@ -15,3 +15,4 @@ Competition Link: [Sibur challenge 2021](https://sibur.ai-community.com/competit
 2) Inference.ipynb - Получение predict.py для прогноза спроса на следующий месяц. <br/>
 3) predict.py - файл с инференсом, который принимает модели с Fit_pipeline.ipynb и применения для предсказания спроса на следующий месяц. <br/>
 4) requirements.txt - версии необходимых библиотек <br/>
+5) sc2021_train_deals.csv - train data <br/>
