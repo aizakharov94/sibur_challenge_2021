@@ -6,9 +6,6 @@ Link: https://sibur.ai-community.com/competitions/5/tasks/13/rating
 Файлы репозитория:
 
 1) Fit_pipeline.ipynb - обучение модели и получение обученной модели для инференса.
---/ыфва
-/--фыва
-
 
 2) Inference.ipynb - применение файла predict.py для прогноза спроса на следующий месяц.
 
